@@ -86,6 +86,9 @@ and how to install them.
 
 -   [MongoDB](https://www.mongodb.com/)
 
+-   [Express.js](https://expressjs.com/)
+
+
 ### **Servers**
 
 -   [Heroku](http://heroku.com/)
@@ -124,13 +127,13 @@ and how to install them.
 
 -   [Wireframes](https://www.figma.com/file/XF4cMLkW5ADXi6g8DmEtbh/air-class)
 
--   [HLD](https://github.com/pesto-students/immersis-frontend-f3-beta-2/blob/readme/docs/hld.pdf)
+-   [HLD](https://elated-saha-243b5f.netlify.app/cc9b35d2394db9ad7f95f56e7a689f75.png)
 
 ## **UI Screens**
 
 ### Landing Page
 
-![](https://airclass.netlify.app/)
+![](https://elated-saha-243b5f.netlify.app/83bdd145153227b59c4af4a0ba7f218e.png)
 
 This is the Landing page of our application. You can navigate to the
 below mentioned links from the homepage.
